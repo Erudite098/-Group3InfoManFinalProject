@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/macal/Downloads/mysql-connector-j-8.1.0/Reference Libraries for MySQL/rs2xml.jar"/>
-	<classpathentry kind="lib" path="C:/Users/macal/Downloads/mysql-connector-j-8.1.0/Reference Libraries for MySQL/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/happypoot300/Downloads/MyEclipseProjects/-Group3InfoManFinalProject/Reference Libraries for MySQL/rs2xml.jar"/>
+	<classpathentry kind="lib" path="/home/happypoot300/Downloads/MyEclipseProjects/-Group3InfoManFinalProject/Reference Libraries for MySQL/mysql-connector-j-8.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
