@@ -6,7 +6,8 @@ public class Main {
 		
 		loginPage login = new loginPage();		
 		login.start();
-
+		
+		System.out.println("Hello Word");
 	}
 
 }
